@@ -453,18 +453,18 @@ text-align: center;
   section.hero .left-side .content .bold-text{
     color: var(--very-dark-blue);
     font-weight: 700;
-    font-size: 20px;
+    font-size: 30px;
    
     font-family: 'Raleway', sans-serif;
   }
   section.hero-2 .left-side .content h1{
-    font-size: 35px;
+    font-size: 30px;
     font-family: 'Raleway', sans-serif;
   }
-  section.hero-2 .left-side .content p{
-   max-width: 549px;
-   color: var(--very-dark-blue);
-  }
+  section.hero .left-side .content .text {
+    color: var(--very-dark-blue);
+    font-size: 16px;
+}
   
 }
 
