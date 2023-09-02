@@ -100,7 +100,6 @@ padding: 10px 60px 8px 8px;
  border: 1px solid rgb(132, 127, 127);
  border-radius: 4px;
  outline: none;
-
 }
 section.hero .left-side .content .input input:focus{
 border: 1px solid red;
