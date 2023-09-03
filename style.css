@@ -276,6 +276,7 @@ footer .container-2{
   background-color: var(--very-dark-blue);
   max-width: 1448px;
   padding: 20px 20px;
+  margin: 0 auto;
 
  
 }
